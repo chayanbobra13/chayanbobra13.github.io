@@ -10,7 +10,8 @@ Go to Preferences → Code Style → Java and in a Scheme dropdown you can choos
 cmd + shift + a (Windows / Linux: ctrl + shift + a).
 
 
-		src
+![b7ca222595282ef66cbe633f82bf7cf7](https://user-images.githubusercontent.com/35499100/38086952-f019e426-3373-11e8-8c1a-9483c2428686.jpg)
+
 
 **4. Use eye catching and cooling color for UI**
 I recommed to go for shades of blue and green for your UI.
