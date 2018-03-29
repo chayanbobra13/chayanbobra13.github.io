@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+#Pro tip for good android developer 
 
-You can use the [editor on GitHub](https://github.com/chayanbobra13/chayanbobra13.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**1. Material Colors theme for Android Logcat**
+To change Android Studio Logcat you need to go to: Preferences (Settings on Windows / Linux machines) → Editor → Colors & Fonts → Android Logcat and change the foreground color for every type of log.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**2. Apply a proper code style to your IDE (IntelliJ / Android Studio)**
+Go to Preferences → Code Style → Java and in a Scheme dropdown you can choose your code style (or set up a new one).
 
-### Markdown
+**3. The best and the most helpful command is Search for command: **
+cmd + shift + a (Windows / Linux: ctrl + shift + a).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+		src
 
-# Header 1
-## Header 2
-### Header 3
+**4. Use eye catching and cooling color for UI**
+I recommed to go for shades of blue and green for your UI.
+ read this article for more information about color.
+https://timesofindia.indiatimes.com/life-style/health-fitness/de-stress/7-relaxing-colors-and-how-they-affect-your-mood/articleshow/46946305.cms
 
-- Bulleted
-- List
+**5. Use shortcut to move Move between Design / Text tabs in layout’s view: **
+use this shortcut control + shift + ← / → (Windows / Linux: alt + shift + ← / →).
 
-1. Numbered
-2. List
+**6.Always formate your code for easy reading,understanding**
+use this shortcut cmd + option + l (Windows / Linux: ctrl + alt + l).
 
-**Bold** and _Italic_ and `Code` text
+##to learn more refer this link it will help you to develop 
+https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chayanbobra13/chayanbobra13.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
